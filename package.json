@@ -1,0 +1,12 @@
+{
+  "name": "aem-admin-toolkit",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "index": "node cli.js index sample",
+    "cli": "node cli.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  }
+}
