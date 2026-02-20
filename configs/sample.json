@@ -1,0 +1,6 @@
+{
+  "org": "mofsl-hub",
+  "site": "mofsl-group-website",
+  "endpoint": "content/query.yaml",
+  "bodyFile": "configs/sample/query.yaml"
+}
